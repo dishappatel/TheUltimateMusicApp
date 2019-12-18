@@ -1,0 +1,2 @@
+# Android Music App
+Using this mobile music application user and admin can create multiple playlists and also can add and remove songs from the playlist. Users can give rating to the app. Admin can see all the users detail with app rating numbers given by the users.To use this application user need to register and login to the application.
